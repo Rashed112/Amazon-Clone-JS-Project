@@ -1,7 +1,9 @@
 //Main Idea of JS
 //Step-1: Save the data
 //which is done in products.js file by creating a product list and we'll use that here
-
+//using modules
+//.. means outside of the current folder
+import {cart} from '../data/cart.js';
 //step-2: Generate the HTML
 
 let productsHTML = '';
