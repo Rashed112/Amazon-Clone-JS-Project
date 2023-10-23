@@ -4,6 +4,7 @@
 //using modules
 //.. means outside of the current folder
 import {cart} from '../data/cart.js';
+import { products } from '../data/products.js';
 //step-2: Generate the HTML
 
 let productsHTML = '';
