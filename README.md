@@ -1,5 +1,5 @@
 # Amazon-Clone-JS-Project
-This is a vanilla JavaScript project, an e-commerce website based on Amazon website.
+This is a vanilla JavaScript project, an e-commerce website based on the Amazon website.
 
 ## Getting Started
 After cloning the project, to run the project, simply open the [amazon.html](https://github.com/Rashed112/Amazon-Clone-JS-Project/blob/main/amazon.html) file in any of your favorite browsers, you will have the website.
